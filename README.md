@@ -37,5 +37,17 @@ To run the Classic Burger & Chicken King's Food Menu Website locally, follow the
 
 3. Open the index.html file in your web browser.
 
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- Suyog Kadariya
+  - Email: suyogkadariya@outlook.com
+  - LinkedIn: [Suyog Kadariya](https://www.linkedin.com/in/suyogkadariya/)
+  - GitHub: [suyogkad](https://github.com/suyogkad)
 
 
