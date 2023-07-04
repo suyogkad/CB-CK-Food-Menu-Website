@@ -39,7 +39,9 @@ To run the Classic Burger & Chicken King's Food Menu Website locally, follow the
 
 ## License
 
-This project is licensed under the MIT License.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Contact
 
